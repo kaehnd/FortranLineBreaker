@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FortranLineBreaker": {
+      "commandName": "Project",
+      "commandLineArgs": "./testFile.txt"
+    }
+  }
+}
